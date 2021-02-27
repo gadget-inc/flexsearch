@@ -52,7 +52,6 @@
     "LICENSE"
   ],
   "readme": "README.md",
-  "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-plugin-conditional-compile": "0.0.5",
